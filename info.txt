@@ -1,0 +1,29 @@
+Address
+Plot No .X-47, Shop No.01,opp.Bhagatsing School, Maharana Pratap Chowk,Bajajnagar ,Waluj M.I.D.C. Chatrpati Sambhajingar (Aurangabad) 431136
+
+phone no
+9503296666
++91 75883 90588
+
+email
+the.swarajyagroup@gmail.com 
+
+#eea828 yellow
+#ef6d0f orange
+
+img/project/crown/61.jpg
+ <li><a href="soft-service.html">Banking</a></li>
+                                                <li><a href="placement-service.html">Electricals</a></li>
+                                                <li><a href="security-service.html">Entertainment</a></li>
+                                                <li><a href="labour-supply.html">Manpower</a></li>
+                                                <li><a href="office-administration.html">civil</a></li>
+                                                <li><a href="project-based-cleaning.html">Social Work</a></li>
+                                                <li><a href="property-mangement-&-technical-service.html">Real Estate</a></li>
+                                                <li><a href="guesthouse-management.html">Health Services </a></li>
+                                                <li><a href="transport-management.html">Transport</a></li>
+                                                <li><a href="">Agro</a></li>
+                                                <li><a href="">Event Management</a></li>
+                                                <li><a href="">Hospitality</a></li>
+                                               
+
+	background-image: linear-gradient(to left, #ef6d0f , #eea828);
